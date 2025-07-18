@@ -88,7 +88,7 @@ def send_to_discord(job):
         "embeds": [{
             "title": f"{title} @ {company}",
             "url": link,
-            "description": f"📍 **Location**: {location}\n🕒 **Posted**: {posted}\n💼 **Type**: {job_type}",
+            "description": f"📍 **Location**: {location}\n🕒 **Posted**: {posted}\n💼 **Type**: {job_type}\n🔗 **[View Job Posting]({link})**",
             "color": 5814783  # Optional: bluish color
         }]
     }
