@@ -18,16 +18,19 @@ ROLE_SYNONYMS = {
     "software engineer": [
         "software engineer", "software developer", "backend engineer", "frontend engineer", "software development engineer",
         "sde", "sde 1", "sde 2", "software engineer 1", "software engineer 2", "software engineer intern",
-        "junior developer", "full stack engineer", "full stack developer", "intern"
+        "junior developer", "full stack engineer", "full stack developer", "intern", "backend developer", "front Developer",
+        "senior software engineer"
     ],
     "data analyst": [
         "data analyst", "data analytics", "business analyst", "analytics intern", "data visualization", "data analyst intern"
     ],
     "data scientist": [
-        "data scientist", "ml engineer", "machine learning engineer", "ai scientist", "ml intern", "data science intern"
+        "data scientist", "ml engineer", "machine learning engineer", "ai scientist", "ml intern", "data science intern",
+        "data scientist II", "data scientist 2"
     ],
     "data engineer": [
-        "data engineer", "etl engineer", "data pipeline engineer", "big data", "data platform engineer", "data engineer intern"
+        "data engineer", "etl engineer", "data pipeline engineer", "big data", "data platform engineer", "data engineer intern",
+        "data engineer II", "data engineer 2"
     ],
     "ai engineer": [
         "ai engineer", "artificial intelligence engineer", "machine learning developer",
